@@ -16,6 +16,7 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=edemyakoubi&show_icons=true&theme=radical" alt="Edem's GitHub stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=edemyakoubi&theme=radical"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edemyakoubi&layout=compact&theme=radical" />
   <img src="https://komarev.com/ghpvc/?username=edemyakoubi&style=flat-square&color=blue" alt="Profile views" />
 </p>
