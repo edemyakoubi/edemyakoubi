@@ -3,7 +3,7 @@
 ### Aspiring Computer Engineer | Future Innovator
 
 - 🔭 I’m currently working on **building weird web apps and trying not to break the internet**
-- 🤹‍♂️ Juggling **Python, SQL, C, and the occasional existential crisis**
+- 🤹‍♂️ Juggling **Python, JAVA, C and the occasional existential crisis**
 - 🖥️ **Sophomore @ISI Computer Engineering major**
 - 💬 One thing about me: **Anxiety-fueled late-night coding champion**
 - 📫 How to reach me: **ademyakoubi758@gmail.com**
