@@ -1,12 +1,10 @@
-# Hi 👋, I'm Edem
+# Hi, I'm Edem
 
-### Aspiring Computer Engineer | Future Innovator
+### Aspiring Networks Engineer | Future Innovator 
 
-- 🔭 I’m currently working on **building weird web apps and trying not to break the internet**
-- 🤹‍♂️ Juggling **Python, JAVA, C and the occasional existential crisis**
-- 🖥️ **Sophomore @ISI Computer Engineering major**
-- 💬 One thing about me: **Anxiety-fueled late-night coding champion**
-- 📫 How to reach me: **ademyakoubi758@gmail.com**
+- **Sophomore @ISI Computer Engineering major**
+- One thing about me: **Anxiety-fueled late-night solving champion**
+- How to reach me: **edem.yakoubi4@gmail.com**
 
 **Veni, Vidi, Vici**
 
