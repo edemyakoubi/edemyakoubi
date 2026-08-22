@@ -1,8 +1,8 @@
-# Hi, I'm Edem
+# Hola, I'm Edem
 
-### Aspiring Networks Engineer | Future Innovator 
+### Aspiring Networks Engineer | Future Innovator | Telecom Network Intern | Mobile Networks Infrastructure & Security
 
-- **Sophomore @ISI Computer Engineering major**
+- **Junior @ISI Computer Engineering major**
 - One thing about me: **Anxiety-fueled late-night solving champion**
 - How to reach me: **edem.yakoubi4@gmail.com**
 
@@ -15,7 +15,6 @@
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=edemyakoubi&theme=dark"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edemyakoubi&layout=compact&theme=radical" />
-  <img src="https://komarev.com/ghpvc/?username=edemyakoubi&style=flat-square&color=blue" alt="Profile views" />
 </p>
 
 ---
